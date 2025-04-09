@@ -1,5 +1,7 @@
 # Colab-Video-Editor
-Código para cortar un video en Google Colab usando moviepy.
+This PROJECT IS PROVIDED "AS IS", it may have codign problems.
+
+## Código para cortar un video en Google Colab usando moviepy.
 
 
 ----
