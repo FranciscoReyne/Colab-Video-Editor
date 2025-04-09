@@ -84,11 +84,9 @@ HTML(f'<iframe width="800" height="450" src="{youtube_url}" frameborder="0" allo
 
 
 ```
----
 
+### DESCARGA A COLAB:
 
-
----
 ```python
 # prompt:  #aqui agrega la opcion para guardar el video de youtube en directorio de colab
 
